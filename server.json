@@ -1,3 +1,25 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": "3wIh8Hn9Hl0",
+      "name": "Pedro",
+      "when": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "id": "3I8T-TynxSo",
+      "name": "Fabricio",
+      "when": "2026-10-17T14:00:00.000Z"
+    },
+    {
+      "id": "73fiSM-PyIA",
+      "name": "Kaio",
+      "when": "2026-10-17T15:00:00.000Z"
+    },
+    {
+      "id": "-YAru6PCnKA",
+      "name": "Joao victor pedro",
+      "when": "2026-10-17T16:00:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
